@@ -1,6 +1,6 @@
 # Challenge-Amigo-Secreto
 
-Este é um **projeto obrigatório de um curso**.  
+Este é um **projeto de um curso**.  
 Os arquivos **.html**, **.css** e os contidos na pasta **assets** foram fornecidos para o desafio, cujo objetivo era a construção das funções solicitadas no arquivo **.js**.
 
 ---
@@ -27,3 +27,4 @@ Os arquivos **.html**, **.css** e os contidos na pasta **assets** foram fornecid
 4. Um dos nomes será exibido como sorteado.
 
 ---
+<small>Arquivo README criado via IA e editado de acordo com gosto pessoal do criador.</small>
