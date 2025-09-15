@@ -28,4 +28,6 @@ Os arquivos **.html**, **.css** e os contidos na pasta **assets** foram fornecid
 
 ---
 
-<small>Arquivo README criado via IA e editado de acordo com gosto pessoal do criador.</small>
+<p align="right">
+  <small>Arquivo README criado via IA e editado de acordo com gosto pessoal do criador.</small>
+</p>
