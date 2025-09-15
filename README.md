@@ -10,9 +10,9 @@ Os arquivos **.html** e **.css** foram fornecidos para o desafio, cujo objetivo 
 - **Sorteio aleatório:** Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.  
 ---
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 ---
 ## 📸 Exemplo de uso
 1. Digite o nome de um amigo.  
