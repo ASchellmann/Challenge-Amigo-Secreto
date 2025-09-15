@@ -1,7 +1,7 @@
 # Challenge-Amigo-Secreto
 
 Este é um **projeto obrigatório de um curso**.  
-Os arquivos **.html** e **.css** foram fornecidos para o desafio, cujo objetivo era a construção das funções solicitadas no arquivo **.js**.
+Os arquivos **.html**, **.css** e os contidos na pasta **assets** foram fornecidos para o desafio, cujo objetivo era a construção das funções solicitadas no arquivo **.js**.
 
 ---
 
